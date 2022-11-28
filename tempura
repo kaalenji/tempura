@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo ryzenadj --stapm-limit=30000 --fast-limit=30000 --slow-limit=30000
