@@ -1,8 +1,0 @@
-[Unit]
-Description=tempura
- 
-[Service]
-ExecStart=/usr/bin/tempura
- 
-[Install]
-WantedBy=multi-user.target
